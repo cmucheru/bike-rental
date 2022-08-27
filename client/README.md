@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Bike Renting App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+### In the client directory, you can run:
+### To install node_modules;
+
+### `npm install` 
+
+To start the app in localhost;
 
 ### `npm start`
 
