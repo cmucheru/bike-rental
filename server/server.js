@@ -1,21 +1,29 @@
 import express from 'express'
 import mongoose from 'mongoose'
 <<<<<<< HEAD
+<<<<<<< HEAD
 import Cors from 'cors' //Cors mods need install
 =======
 import dbCards from './dbCards.js'
 import  Cards from  './dbCards.js'
 >>>>>>> 13537e9026c5b665e830276bab5eb2f11adfcd9f
+=======
+import dbCards from './dbCards.js'
+import  Cards from  './dbCards.js'
+>>>>>>> bceb563 (added imports)
 
 //config the app
 const app = express()
 const port = process.env.PORT || 8001
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 //config middleware to parse incoming JSON object from db
 app.use(express.json())
 app.use(Cors())
 =======
+=======
+>>>>>>> bceb563 (added imports)
 const connection_url = '' //put url from MongoDB
 //config middleware
 >>>>>>> 13537e9026c5b665e830276bab5eb2f11adfcd9f
