@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
 # Bike Renting App
 
+=======
+# Bike Renting App
+
+>>>>>>> da9991c984790df24a7d0d2edda2caea81527dba
 
 ## Available Scripts
 
