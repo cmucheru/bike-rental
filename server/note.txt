@@ -1,0 +1,6 @@
+In server.js, create a connection_url variable and paste the URL within the string
+that you got from MongoDB. Enter the password that you saved earlier and provide a
+database name. The updated code is marked in bold.
+
+## ->Download Postman man app to check the routes  
+   ## progress pg.53
