@@ -13,6 +13,7 @@ installs the necessary dependencies for the client app
 2. In the node -server directory, run:
 
 ```
+npm i
 ```
 
 installs the necessary dependencies for the server app
